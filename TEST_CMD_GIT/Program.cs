@@ -23,7 +23,7 @@ namespace TEST_CMD_GIT
 
 
 
-
+        //------------------------------------------------------------
 
         static int Calc(int P_valeur1, int P_valeur2)
         {
